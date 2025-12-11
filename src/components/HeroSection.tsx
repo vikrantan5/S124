@@ -15,7 +15,7 @@ function HeroSection() {
         </div>
 
         <h1 className="text-6xl md:text-8xl font-handwriting text-pink-600 mb-6 animate-slide-down">
-          Soni,
+          Vikrant
         </h1>
         <h2 className="text-5xl md:text-7xl font-handwriting text-purple-500 mb-8 animate-slide-up">
           I'm really sorry 💗
